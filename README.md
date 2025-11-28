@@ -6,7 +6,7 @@
 *Building multi-agent systems for technical equality*
 
 ![AI Working](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY1OHRucXBmdWVzNnZsbzg1Nno0a2JsNGJsdGdtd3ZwMG1uY3owcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif)
-![cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1eG9oYWUweWdnMnlodmM5YTJqZnJ2ZDJ3ZDhqYzRkaDR2bDQ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tJfy6FpyQ4PQ4fXTQ/giphy.gif)
+
 
 </div>
 
@@ -17,7 +17,7 @@
 - 👨💻 Code Writer  
 - 🔍 Quality Reviewer
 - 🤝 Team Coordinator
-
+![cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1eG9oYWUweWdnMnlodmM5YTJqZnJ2ZDJ3ZDhqYzRkaDR2bDQ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tJfy6FpyQ4PQ4fXTQ/giphy.gif)
 ## 🛠️ Tech
 
 ```python
