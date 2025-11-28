@@ -18,5 +18,5 @@
 - 🔍 Quality Reviewer
 - 🤝 Team Coordinator
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1eG9oYWUweWdnMnlodmM5YTJqZnJ2ZDJ3ZDhqYzRkaDR2bDQ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tJfy6FpyQ4PQ4fXTQ/giphy.gif)
-## 🛠️ Tech
+
 
