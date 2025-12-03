@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Python AI Engineer
+# embrace ai
 
 **AI that WORKS, not just talks**  
 *Building multi-agent systems for technical equality*
