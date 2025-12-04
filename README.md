@@ -4,9 +4,6 @@
 
 **AI that WORKS, not just talks**  
 *Building multi-agent systems for technical equality*
-
-![AI Working](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY1OHRucXBmdWVzNnZsbzg1Nno0a2JsNGJsdGdtd3ZwMG1uY3owcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif)
-
 </div>
 
 <div align = 'center'>
