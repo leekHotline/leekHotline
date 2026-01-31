@@ -2,17 +2,17 @@
 
 # embrace ai
 
-**AI that WORKS, not just talks**  
-*Building multi-agent systems for technical equality*
+AI that **Works/Innovations/Organizations**, not just talks <br/>
+fllow **builders** , not influencers <br/>
+**do** first , then improve/optimize/iterate <br/>
+*Building multi-agent systems*
 </div>
 
 <div align = 'center'>
-  🎯 My Focus : Multi-Agent Teams <br>
+  My Focus : Reach AGI for technical equality <br>
 
 <h3>
- 🕷️ Data Collector 
- 💻 Code Writer  
- 🔍 Quality Reviewer 
+ Way to AGI : Conversation AI -> Reasoners -> Agent -> Innovators -> Organizational AI
   </h3>
   <p style="font-weight: bold">We only need to make correct judgments</p> 
   <br>
